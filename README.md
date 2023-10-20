@@ -1,23 +1,81 @@
-# 💫 About Me:
-👋 Hey there! I'm Mohd Mateen Khan, a passionate Final Year BTech CSE student at Invertis University<br><br>💻 I have a keen interest in Full Stack Web Development, specializing in React, and Node.js. <br>🌐 I enjoy building robust and interactive web applications, leveraging the power of these technologies to create seamless user experiences.<br><br>📱 Additionally, I am actively learning and gaining experience in Mobile Development using React Native. <br>📲 I love creating cross-platform mobile applications that are fast, responsive, and visually appealing.<br><br>🎓 As a computer science enthusiast, I am constantly learning and exploring new technologies and tools to stay up-to-date with the latest trends in the industry. I believe in the power of collaboration and enjoy working in diverse teams to tackle complex problems and create innovative solutions.<br><br>🌟 Feel free to explore my GitHub repositories, where you'll find a collection of my projects, showcasing my skills and passion for software development. If you have any questions, ideas, or collaboration opportunities, don't hesitate to reach out. Let's create something amazing together! 🚀<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
+<br /> 
+Hello World 🌎! I'm **Mohd Mateen Khan**, a passionate app developer📱 and web developer🌐. Currently, I'm in my final year at Invertis University. Feel free to connect with me on app development 📱, web development 🌐, data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀
+
+<a href="https://github.com/mateen27">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/khanmateen27/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
+<a href="mailto:khanmateen2713@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<br />
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanmateen27/) 
+<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mateen27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mateen27&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateen27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2> <b>Current Status</b> </h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 👨🏻‍💻 I’m currently working on [BookMyFilm](https://github.com/mateen27/BookMyFilm-MobileApp)
+- 🌱 I’m currently learning **React Native** and **DSA**🔣.
+- 🧐 My research interests are with **Cloud, DevOps**, etc.
+- 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via khanmateen2713@gmail.com .
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
 
-<!---
-mateen27/mateen27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+    <summary>
+    <b>My GitHub- Stats 📈📊</b>
+    </summary>
+  <br />
+  <a >
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateen27" />
+  </a>
+  <a >
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateen27&layout=compact&langs_count=8&card_width=320" />
+  </a>
+    <a >
+    <img height=160 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateen27&theme=github&utcOffset=8" />
+  </a>
+  <a >
+    <img height=160 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateen27&theme=github" />
+  </a>
+    <a >
+    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=mateen27&theme=swift" />
+  </a>
+  <a >
+    <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateen27&theme=github-compact" />
+  </a>
+  
+  </details>
+
+<details>
+  <summary>
+  <b > My Tech Stack 🛠️👨‍💻💻</b>
+  </summary>
+  
+
+### **Databases 🛢️📊🧾**
+[![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,postgres&perline=50)](https://skillicons.dev)
+
+### **Backend ⚙️🗄️🔙👨‍💻**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,pug&perline=50)](https://skillicons.dev)
+
+### **Frontend 📱🕸👨‍💻🌐**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,flutter&perline=50)](https://skillicons.dev)
+
+### **Programming Languages </>💻**
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,ts&perline=50)](https://skillicons.dev)
+
+### **IDE's 🖥️📟#️⃣**
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,replit,atom&perline=50)](https://skillicons.dev)
+
+</details>
+
+<br />
+
+
