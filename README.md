@@ -18,7 +18,7 @@ Hello World 🌎! I'm **Mohd Mateen Khan**, a passionate app developer📱 and w
 
 <h2> <b>Current Status</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [BookMyFilm](https://github.com/mateen27/BookMyFilm-MobileApp)
+- 👨🏻‍💻 I’m currently working on [E-Commerce App](https://github.com/mateen27/e-commerce)
 - 🌱 I’m currently learning **React Native** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
